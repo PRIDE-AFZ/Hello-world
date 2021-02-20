@@ -1,0 +1,7 @@
+C:\Afzal\PRIDE\C#\Проекты\20.02.2021\AFZ.The Matrix\AFZ.The Matrix\bin\Debug\AFZ.The Matrix.exe.config
+C:\Afzal\PRIDE\C#\Проекты\20.02.2021\AFZ.The Matrix\AFZ.The Matrix\bin\Debug\AFZ.The Matrix.exe
+C:\Afzal\PRIDE\C#\Проекты\20.02.2021\AFZ.The Matrix\AFZ.The Matrix\bin\Debug\AFZ.The Matrix.pdb
+C:\Afzal\PRIDE\C#\Проекты\20.02.2021\AFZ.The Matrix\AFZ.The Matrix\obj\Debug\AFZ.The Matrix.csprojAssemblyReference.cache
+C:\Afzal\PRIDE\C#\Проекты\20.02.2021\AFZ.The Matrix\AFZ.The Matrix\obj\Debug\AFZ.The Matrix.csproj.CoreCompileInputs.cache
+C:\Afzal\PRIDE\C#\Проекты\20.02.2021\AFZ.The Matrix\AFZ.The Matrix\obj\Debug\AFZ.The Matrix.exe
+C:\Afzal\PRIDE\C#\Проекты\20.02.2021\AFZ.The Matrix\AFZ.The Matrix\obj\Debug\AFZ.The Matrix.pdb
